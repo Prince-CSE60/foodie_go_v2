@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "313525126911",
-    "project_id": "foodiego-f7bbd",
-    "storage_bucket": "foodiego-f7bbd.firebasestorage.app"
+    "project_number": "571709234687",
+    "project_id": "foodie-go-52b46",
+    "storage_bucket": "foodie-go-52b46.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:313525126911:android:7e2798e6028d83a08baeca",
+        "mobilesdk_app_id": "1:571709234687:android:abd66bda87803e160b5bca",
         "android_client_info": {
-          "package_name": "com.example.foodie_go"
+          "package_name": "com.prince.foodie_go"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDA_yseydoiPlopyk3aBDYunETTetlwpPE"
+          "current_key": "AIzaSyDtEoO2WaDA3hP8am5jPN8uKBOw3tVrReo"
         }
       ],
       "services": {
