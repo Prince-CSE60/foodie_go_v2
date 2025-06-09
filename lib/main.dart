@@ -9,13 +9,13 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: FirebaseOptions(
-        apiKey: "AIzaSyBwAIZC3zh00cWaERgfLhUrKzM8491PwI0",
-        authDomain: "foodiego-f7bbd.firebaseapp.com",
-        projectId: "foodiego-f7bbd",
-        storageBucket: "foodiego-f7bbd.firebasestorage.app",
-        messagingSenderId: "313525126911",
-        appId: "1:313525126911:web:9c388d57ad198c198baeca",
-        measurementId: "G-B7LEE2VF3V",
+          apiKey: "AIzaSyDsi_s2_tOXqLp5Z85F07zgHC1W7XJuKRI",
+          authDomain: "foodie-go-52b46.firebaseapp.com",
+          projectId: "foodie-go-52b46",
+          storageBucket: "foodie-go-52b46.firebasestorage.app",
+          messagingSenderId: "571709234687",
+          appId: "1:571709234687:web:905e9da682d5b7470b5bca",
+          measurementId: "G-24F7JF99SH",
       ),
     );
   } else {
